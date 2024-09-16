@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on [PolyglotCode](github.com/mulla028/PolyglotCode)<br>🤝 I’m looking for help with [PolyglotCode](github.com/mulla028/PolyglotCode)<br>🌱 I’m currently learning Java<br>💬 Ask me about anything<br>⚡ Fun fact a hockey player
+🔭 I’m currently working on PolyglotCode <br>🤝 I’m looking for help with PolyglotCode<br>🌱 I’m currently learning Java<br>💬 Ask me about anything<br>⚡ Fun fact a hockey player
 
 
 ## 🌐 Socials:
