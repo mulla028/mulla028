@@ -1,7 +1,4 @@
 ## Hi there 👋
-# 💫 About Me:
-🔭 I’m currently working on PolyglotCode <br>🤝 I’m looking for help with PolyglotCode<br>🌱 I’m currently learning Java<br>💬 Ask me about anything<br>⚡ Fun fact a hockey player
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amir.mullagaliev28) 
